@@ -1,2 +1,1 @@
-asf
-asdf
+OK Creating a new branch is quick.
